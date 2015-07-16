@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "THE BASICS - OPERATORS",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "THE BASICS - OPERATORS",
+    "uuid": "31380f2e-6f28-4a9d-bbd1-cfabf00c1486",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
